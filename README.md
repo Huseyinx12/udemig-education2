@@ -6,9 +6,9 @@
   
 <p>This project is a <strong>modern and user-friendly</strong> software academy website design. It is built using
 
-<strong>HTML</strong> and <strong>CSS</strong>, featuring 
+<strong>HTML</strong> and <strong>CSS</strong>, featuring <strong>responsive design</strong> and <strong>hover effects</strong> to 
 
-<strong>responsive design</strong> and <strong>hover effects</strong> to enhance user experience.</p>  
+enhance user experience.</p>  
 
 </section>  
 
